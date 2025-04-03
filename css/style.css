@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.bg-image {
+    background: url('img/spa-banner.jpg') no-repeat center center/cover;
+    height: 300px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.card {
+    transition: transform 0.3s;
+}
+.card:hover {
+    transform: scale(1.05);
+}
