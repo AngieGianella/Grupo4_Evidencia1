@@ -12,3 +12,12 @@ body {
 .card:hover {
     transform: scale(1.05);
 }
+.primario{
+    background-color: #FAA7C0;
+}
+.secundario{
+    background-color: #F7E5D4;
+}
+.tercero{
+    background-color:#E6C2BF ;
+}
